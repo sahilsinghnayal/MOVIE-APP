@@ -31,9 +31,10 @@
  .search::placeholder {
      color:white;
  }
- .search:focus{
+ /* focus when you click then it will trigger */
+ .search:focus{ 
      outline: none;
-     background-color: var(--primary-color);
+     background-color: var(--primary-color); 
  }
  main{
      display: flex;
