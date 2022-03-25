@@ -5,12 +5,10 @@
 
 }
  :root{
-     --primary-color:#22254b;
-     --secondary-color:#373b69;
-     /* --primary-color:rgba(0, 0, 0, 0.418);
-     --secondary-color:rgb(156, 131, 131); */
-
- }
+    --primary-color: #090909;
+    --secondary-color: #040a47;
+}
+ 
  body{
      background-color: var(--primary-color);
  }
